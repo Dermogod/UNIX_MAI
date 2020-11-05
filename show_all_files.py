@@ -1,5 +1,4 @@
 import os
-import subprocess
 
 file_name = 'thread-'
 path = '/home/lev/Desktop/MAI/' + file_name
